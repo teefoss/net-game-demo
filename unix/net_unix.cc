@@ -1,5 +1,5 @@
 #include "../net.hh"
-#include "misc.hh"
+#include "../misc.hh"
 
 #include <assert.h>
 #include <errno.h>
