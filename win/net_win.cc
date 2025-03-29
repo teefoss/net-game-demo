@@ -1,4 +1,4 @@
-#include "net.hh"
+#include "../net.hh"
 
 #include <assert.h>
 #include <stdarg.h>
